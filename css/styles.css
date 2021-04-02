@@ -1,0 +1,76 @@
+/********************************TAG SELECTORS************************/
+body {
+margin: 20px;
+  font-family: "Montserrat", Verdana, Arial, sans-serif;
+  color: white;
+}
+
+div {
+  background-color: #78c4d4;
+   padding: 10px;
+
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #edffec;
+  border-width: 6px;
+  width: 2%;
+}
+h2 {
+  color: white;
+  font-family: serif;
+  font-size: 250%;
+  font-style: normal;
+  margin-bottom: 0;
+  }
+h3 {
+  color: white;
+  font-size: 225%;
+}
+
+li {
+  font-size: x-large;
+}
+p {
+  font-size: x-large;
+}
+
+span {
+  text-decoration: underline;
+}
+
+table {
+    font-size: x-large;
+  }
+ol {
+  font-size: x-large;
+}
+
+/********************************CLASS SELECTORS**********************************/
+.bold {
+   font-weight: bold;
+}
+
+.color {
+  color: white;
+}
+
+.decoration {
+  color: white;
+  text-decoration: none;
+}
+
+
+.style {
+  font-style: oblique;
+}
+
+.table1 {
+  border-collapse: collapse;
+}
+/******************************ID SELECTORS**************************************/
+#contact {
+  font-size: x-large;
+}
